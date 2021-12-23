@@ -81,7 +81,7 @@ section {
 /* footer */
 
 .textfooter {
-    width: 50%;
+    /* width: 50%; */
     color: rgb(160, 152, 152);
     
 
@@ -91,14 +91,13 @@ section {
     font-size: 20px;
 }
 .textfoot{
-    width: 25%;
+    /* width: 25%; */
     text-align: center;
 }
 .textfoot ul li {
     list-style: none;
     color: rgb(160, 152, 152);
-    text-align: center;
-
+    margin-right: 36px;
 }
 .textfoot h3 {
     color: white;
